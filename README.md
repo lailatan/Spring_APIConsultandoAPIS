@@ -1,4 +1,4 @@
-# Sprong_APIConsultandoAPIS
+# Spring_APIConsultandoAPIS
 ## Spring API Rest. Usando API StarWars y MySQL
 ### Al sistema del universo SW, agregarle endpoints para lo siguiente:
 ### 1) Buscar a un personaje por nombre.
